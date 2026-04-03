@@ -2,4 +2,4 @@
 .venv/**.*
 .env
 .env/**.*
-./Reference\ Script/Create\ External\ Table.sql
+Reference Script/Create External Table.sql
